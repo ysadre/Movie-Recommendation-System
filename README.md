@@ -14,4 +14,4 @@ The recommendation system uses a combination of the following techniques:
 * **User-based collaborative filtering:** This technique involves recommending movies to a user based on the ratings of other users who have similar tastes to the user. For example, if a user has similar ratings to other users who have liked movie D, the system might recommend movie D to the user.
 
 ### Results
-The recommendation system achieved a root mean squared error (RMSE) of 0.8963 on the test data. This indicates that the predictions made by the system are, on average, less than 0.8963 away from the true ratings given by users.
+The recommendation system achieved a root mean squared error (RMSE) of 0.8963 on the test data. This indicates that the predictions made by the system are, on average, less than +/-18% away from the true ratings given by users.
